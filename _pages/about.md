@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Peidong Si,born on September 23, 2005. My hometown is Puyang, Henan, China. currently a senior undergraduate student in the [School of Information Engineering at Jiangxi University of Science and Technology](https://ie.jxust.edu.cn/). I have been recommended for admission to the [School of Computer Science at Tianjin University](https://cs.tju.edu.cn/index.htm) to pursue a Master’s degree. My supervisor is Professor Zhiyi Pan, and my research focus is on 3D vision.
+I am Peidong Si. My hometown is Puyang, Henan, China. currently a senior undergraduate student in the [Jiangxi University of Science and Technology](https://jxust.edu.cn/). I have been recommended for admission to the [Tianjin University](https://www.tju.edu.cn/) to pursue a Master’s degree.My research focus is on 3D vision.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
