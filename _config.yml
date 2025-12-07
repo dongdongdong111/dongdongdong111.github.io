@@ -227,7 +227,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  honor:
+  honors:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -277,10 +277,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _honor
+  # _honors
   - scope:
       path: ""
-      type: honor
+      type: honors
     values:
       layout: single
       author_profile: true
