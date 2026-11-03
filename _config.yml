@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a person who constantly strives"
   location         : "Puyang, China"
-  employer         : "JXUST"
+  employer         : "TJU"
   uri              : # URL
   email            : "19839398182@163.com" 
 
@@ -295,7 +295,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # My life
+  - scope:
+      path: ""
+      type: mylife
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
