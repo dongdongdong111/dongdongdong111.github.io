@@ -13,9 +13,11 @@ main:
 
   - title: "Honors"
     url: /honors/
+    
+  - title: "Mylife"
+    url: /mylife/
   # - title: "Talks"
   #   url: /talks/    
-
   # - title: "Teaching"
   #   url: /teaching/    
     
